@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" 
+   width="867.12103"
+   height="847.31274"
+   viewBox="0 0 867.12103 847.31274">
+
+<title>Logo</title>
+
+ 	<style type="text/css">
+
+		.english{
+      font-family: 'Z003';
+      font-size: 70px;
+      font-weight:bold;
+			dominant-baseline: middle;
+			fill: #000;
+			letter-spacing: 0.01em;
+			text-anchor: end;
+		}
+
+		.esperanto{
+      font-family: 'Noto Serif Georgian';
+      font-size: 105px;
+      font-weight:bold;
+			dominant-baseline: middle;
+			fill: #000;
+			letter-spacing: -0.07em;
+			text-anchor: start;
+		}
+
+   </style>
+
+   <text class="english" x="97.5%" y="6.5%">A Book</text>
+   <text class="english" x="97.5%" y="14%">to Curl</text>
+   <text class="english" x="97.5%" y="20.5%">Up</text>
+   <text class="english" x="97.5%" y="29%">With</text>
+
+  <text class="esperanto" x="1%" y="60%">Libro</text>
+  <text class="esperanto" x="5%" y="74.5%">por</text>
+  <text class="esperanto" x="1%" y="92.5%">Kunvolviĝi</text>
+
+</svg>
