@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 600 400">
+  <style>
+	text {
+		text-anchor: middle;	  
+	}
+    .esperanto {
+      font: 55px sans-serif;
+    }
+    .english {
+      font: italic 60px sans-serif;
+    }
+  </style>
+	<title>Uncopyright</title>
+	<text x="300" y="50" class="esperanto">Senpaga kaj Libera</text>
+ 	<image x="0" y="75" height="250" width="600" href="uncopyright.png" />
+	<text x="300" y="380" class="english">Free</text>
+</svg>
